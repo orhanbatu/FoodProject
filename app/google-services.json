@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527000807142",
+    "project_id": "javafoodproject",
+    "storage_bucket": "javafoodproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527000807142:android:5725130ad1da1e5af57d27",
+        "android_client_info": {
+          "package_name": "com.orhanbatu.javafoodproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUh6TLTLP_vOWKsKkmOyk3zbtzvqGpN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
